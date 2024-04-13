@@ -1,6 +1,6 @@
 local linkvertise = 'https://shorten.tv/xboNT'
 local discordLink = 'https://discord.gg/KAjqmrqSC6'
-local uniqueKey = game:HttpGet'https://alphageek.online/geradordekeys.html';
+local uniqueKey = game:GetService("HttpService"):JSONDecode(game:HttpGet('https://alphageek.online/geradordekeys.html')).uniqueKey;
 
 local thescript = [[
     loadstring(game:HttpGet("https://raw.githubusercontent.com/pokelokbr/Porcohub/main/script%20feito"))()
