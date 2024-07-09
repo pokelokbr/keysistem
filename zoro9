@@ -414,7 +414,7 @@ function Update:Window(text,logo,keybind)
 	Logo.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 	Logo.BackgroundTransparency = 1.000
 	Logo.Position = UDim2.new(0, -5, 0, -5)
-	Logo.Size = UDim2.new(0, 160, 0, 160)
+	Logo.Size = UDim2.new(0, 170, 0, 135)
 	Logo.Image = "rbxassetid://18412065021"
     local Tab = Instance.new("Frame")
     Tab.Name = "Tab"
