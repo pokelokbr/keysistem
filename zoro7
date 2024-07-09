@@ -188,7 +188,7 @@ ImageButton1.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 ImageButton1.BackgroundTransparency = 1.10
 ImageButton1.BorderSizePixel = 0
 ImageButton1.Position = UDim2.new(0.120833337, 0, 0.0952890813, 0)
-ImageButton1.Size = UDim2.new(0, 30, 0, 70)
+ImageButton1.Size = UDim2.new(0, 70, 0, 70)
 ImageButton1.Draggable = true
 ImageButton1.Image = "http://www.roblox.com/asset/?id=18412065021"
 ImageButton1.MouseButton1Down:connect(function()
@@ -414,7 +414,7 @@ function Update:Window(text,logo,keybind)
 	Logo.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 	Logo.BackgroundTransparency = 1.000
 	Logo.Position = UDim2.new(0, -5, 0, -5)
-	Logo.Size = UDim2.new(0, 135, 0, 135)
+	Logo.Size = UDim2.new(0, 150, 0, 135)
 	Logo.Image = "rbxassetid://18412065021"
     local Tab = Instance.new("Frame")
     Tab.Name = "Tab"
