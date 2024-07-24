@@ -3854,12 +3854,12 @@ H:AddSeperator("Youtube chanel")
 
 
 
-H:AddButton("KSZIN",function()
-setclipboard("https://www.youtube.com/@kszinn8218/")
+H:AddButton("Pokelok",function()
+setclipboard("https://www.youtube.com/@pokelokbr")
 end)
 
 H:AddButton("DISCORD link",function()
-setclipboard("https://discord.gg/ZpTESXU5qD")
+setclipboard("https://discord.gg/Z7JdAKV8Ve")
 end)
 
 H:AddLine()
