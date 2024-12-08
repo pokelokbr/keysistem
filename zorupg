@@ -1,6 +1,6 @@
-local linkvertise = 'https://pastebin.com/raw/wFnZw3jB'
+local linkvertise = 'nunca nem vi'
 local discordLink = 'https://discord.gg/FMtKcpabkZ'
-local uniqueKey = game:HttpGet'https://alphageek.online/geradordekeys.php';
+local uniqueKey = game:HttpGet'https://pastebin.com/raw/wFnZw3jB';
 
 local thescript = [[
     loadstring(game:HttpGet("https://raw.githubusercontent.com/pokelokbr/keysistem/main/zoru%20hub00"))()
